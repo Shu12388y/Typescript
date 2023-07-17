@@ -1,4 +1,4 @@
-# How to define a data type in typescript
+# How to define a data type in typescript 
 <div>
 we have use ":"
 </div>
@@ -13,4 +13,3 @@ We can also define it as string, float, boolean, etc <br>
 <h4>
 For compile it we have to use the command tsc filename.ts
 </h4>
- 

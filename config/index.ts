@@ -1,6 +1,6 @@
-// TODO 1: Write  a program to add two numbers
-// TODO 2: How to catch Error & solve it
-// TODO 3: TS configuration File
+// ?TODO 1: Write  a program to add two numbers
+// ?TODO 2: How to catch Error & solve it
+// ?TODO 3: TS configuration File
 
 
 // func define

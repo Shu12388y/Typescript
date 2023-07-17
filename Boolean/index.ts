@@ -6,11 +6,11 @@ console.log(addSum(1,2))
 
 
 
-// let us define boolean data type
+// ?let us define boolean data type
 
 let isValue:boolean=true;
 
-// TODO  1: write a function to check the number is even or not
+// ?TODO  1: write a function to check the number is even or not
 
 function isEven(val:number):boolean{
 if(val%2==0){
@@ -24,7 +24,7 @@ else{
 
 }
 
-// TODO 2: write  a function to check whether a number is divisible by 4 and 8
+// ?TODO 2: write  a function to check whether a number is divisible by 4 and 8
 
 
 function isDivisible(value:number):boolean{
